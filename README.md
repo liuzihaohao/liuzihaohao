@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there,I'm liuzihao 👋
 
+[![liuzihao's github stats](https://github-readme-stats.vercel.app/api?username=liuzihaohao&show_icons=true&hide_progress=false&bg_color=aaffff&theme=merko&text_color=001100&icon_color=ffff00&title_color=115511)]
 <!--
 **liuzihaohao/liuzihaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
