@@ -3,13 +3,16 @@
 ##### My location is: Qingdao,Shandong,China
 ##### My email is: 📧2629827923@qq.com 📧liuzihaohao@hotmail.com
 
-#### This is my [repositories](https://github.com/liuzihaohao?tab=repositories)
+#### these are my [repositories](https://github.com/liuzihaohao?tab=repositories)
  - 📁 [study c++](https://github.com/liuzihaohao/study_c-)
  - 📁 [dingdingcall](https://github.com/liuzihaohao/dingdingcall)
 
-#### This is my [projects](https://github.com/liuzihaohao?tab=projects)
+#### these are my [projects](https://github.com/liuzihaohao?tab=projects)
  - 😩 I don't have any projects yet
 
+#### these are my diarys
+ - 😩 I don't have any diarys yet
+<!-- - 📃 [2020-10-11](https://github.com/liuzihaohao/liuzihaohao/diarys/2020-10-11) -->
 <!--
 **liuzihaohao/liuzihaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
