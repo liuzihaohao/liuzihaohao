@@ -1,5 +1,11 @@
 ### Hi there,I'm liuzihao 👋
-##### My web is: [liuzihaohao.pythonanywhere.com](liuzihaohao.pythonanywhere.com)
+
+![](https://github-readme-stats.vercel.app/api?username=liuzihaohao&show_icons=true&theme=material-palenight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liuzihaohao&layout=compact&theme=material-palenight)
+
+
+<!--##### My web is: [liuzihaohao.pythonanywhere.com](liuzihaohao.pythonanywhere.com)
 ##### My location is: Qingdao,Shandong,China
 ##### My email is: 📧2629827923@qq.com 📧liuzihaohao@hotmail.com
 
@@ -10,7 +16,7 @@
 #### these are my [projects](https://github.com/liuzihaohao?tab=projects)
  - 😩 I don't have any projects yet
 
-<!-- - 📃 [2020-10-11](https://github.com/liuzihaohao/liuzihaohao/diarys/2020-10-11) -->
+ - 📃 [2020-10-11](https://github.com/liuzihaohao/liuzihaohao/diarys/2020-10-11) -->
 <!--
 **liuzihaohao/liuzihaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
