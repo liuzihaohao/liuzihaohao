@@ -1,8 +1,5 @@
 ### Hi there,I'm liuzihao 👋
 
-![](https://github-readme-stats.vercel.app/api?username=liuzihaohao&show_icons=true&theme=material-palenight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liuzihaohao&layout=compact&theme=material-palenight)
 
 
 <!--##### My web is: [liuzihaohao.pythonanywhere.com](liuzihaohao.pythonanywhere.com)
