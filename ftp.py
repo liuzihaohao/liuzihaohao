@@ -7,4 +7,4 @@ authorizer.add_anonymous('/liuzihao/fileweb/',perm='elr')
 handler = FTPHandler
 handler.authorizer = authorizer
 server = FTPServer(('', 2121), handler)
-server.serve_forever()
+server.serve_forever() 
