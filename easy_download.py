@@ -28,7 +28,7 @@ if if_an:
         import multitasking
     except ImportError:
         print("Cant import pip pack.You can: pip install tqdm requests retry multitasking")
-        exit(1)
+        exit(1) 
 '''
 
 from tqdm import tqdm
