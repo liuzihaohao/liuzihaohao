@@ -1,6 +1,7 @@
 ### Hi there,I'm liuzihao 👋
 
 #### My repository
+ - 📁 [hard_cipher](https://github.com/liuzihaohao/hard_cipher) *\[archived\]* 
  - 📁 [myoj](https://github.com/liuzihaohao/myoj) *\[archived\]* ✨
  - 📁 [webcopy](https://github.com/liuzihaohao/webcopy) *\[archived\]* ✨
  - 📁 [webshare](https://github.com/liuzihaohao/webshare) *\[archived\]* 
